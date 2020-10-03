@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-COMS W4701 Artificial Intelligence - Programming Homework 2
-
 This module contains a simple graphical user interface for Othello. 
 
 @author: Daniel Bauer 
